@@ -2,12 +2,6 @@
 
     By Yim Sotharoth since 1/21/2023
 
-<p align="center">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="100">
-<img src="https://img.shields.io/badge/nextjs-%23118db0.svg?style=for-the-badge&logo=react&logoColor=white" width="80">
-<img src="https://img.shields.io/badge/npm--8.3.0-%23303334.svg?style=for-the-badge&logo=npm&logoColor=white" width="90">
-</p>
-
 # Introduction
 
     Joke Web Application is a simple web application that I just built for learning purposes.
